@@ -1,2 +1,4 @@
 #!/bin/bash
 it`s a very butiful girl!
+wo cao 
+ri le gou le !
