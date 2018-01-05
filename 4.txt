@@ -1,4 +1,4 @@
 #!/bin/bash
-it`s a very butiful girl!
+it`s a very beautiful girl!
 wo cao 
 ri le gou le !
